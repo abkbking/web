@@ -1,0 +1,24 @@
+#home{
+    height: 280px;
+    /* flex-direction: column; */
+
+}
+#navbar{
+    /* flex-direction: column; */
+}
+#services{
+    flex-direction: column;
+
+
+}
+#services .box{
+
+}
+#clients{
+    flex-wrap: wrap;
+
+
+}
+#contact{
+
+}
